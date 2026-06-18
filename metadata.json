@@ -1,0 +1,6 @@
+{
+  "name": "Quiz Captación Honne",
+  "description": "Landing page en formato quiz interactivo para captación de propiedades de Honne Inmobiliaria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
